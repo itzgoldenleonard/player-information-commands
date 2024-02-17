@@ -1,0 +1,60 @@
+["",
+  {
+    "text":"Welcome ",
+    "bold":true,
+    "color":"green"
+  },
+  {
+    "selector":"@a[scores={pic.quits=1..}]",
+    "bold":true,
+    "italic":true,
+    "color":"green"
+  },
+  {
+    "text":" to generic minecraft server.",
+    "bold":true,
+    "color":"green"
+  },
+  "\n",
+  {
+    "text":"Please read the rules by typing '",
+    "color":"#C8F3F3"
+  },
+  {
+    "text":"/trigger rules",
+    "color":"#C8F3F3",
+    "clickEvent": {
+      "action":"suggest_command",
+      "value":"/trigger rules"
+      },
+    "hoverEvent": {
+      "action":"show_text",
+      "contents":["Try it out"]
+      }
+  },
+  {
+    "text":"' in chat",
+    "color":"#C8F3F3"
+  },
+  "\n",
+  {
+    "text":"Type ",
+    "color":"#C8F3F3"
+  },
+  {
+    "text":"/trigger help",
+    "color":"#C8F3F3",
+    "clickEvent": {
+      "action":"suggest_command",
+      "value":"/trigger help"
+      },
+    "hoverEvent": {
+      "action":"show_text",
+      "contents":["Try it out"]
+      }
+  },
+  {
+    "text":"' if you have server related problems",
+    "color":"#C8F3F3"
+  }
+]

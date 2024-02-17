@@ -1,0 +1,53 @@
+["",
+  {
+    "text":"Breaking these rules could get you punished",
+    "bold":true,
+    "color":"green"
+  },
+  "\n",
+  {
+    "text":"Rule 1:",
+    "bold":true,
+    "color":"aqua"
+  },
+  {
+    "text":" Don't break the rules",
+    "color":"aqua"
+  },
+  "\n",
+  {
+    "text":"Rule 2: ",
+    "bold":true,
+    "color":"aqua"
+  },
+  {
+    "text":"Griefing isnt cool, it might be allowed, but it probably isnt because that would be kinda weird",
+    "color":"aqua"
+  }
+]
+↡
+["",
+  {
+    "text":"Rule 3: ",
+    "bold":true,
+    "color":"aqua"
+  },
+  {
+    "text":"These aren't real rules",
+    "color":"aqua"
+  },
+  "\n",
+  {
+    "text":"Rule 4: ",
+    "bold":true,
+    "color":"aqua"
+  },
+  {
+    "selector":"@a[scores={rules=2}]",
+    "color":"blue"
+  },
+  {
+    "text":" should probably change these",
+    "color":"blue"
+  }
+]

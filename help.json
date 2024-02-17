@@ -1,0 +1,37 @@
+["",
+  {
+    "text":"You can reach the server's admin on ",
+    "color":"aqua"
+  },
+  {
+    "text":"Element ",
+    "italic":true,
+    "color":"aqua",
+    "clickEvent": {
+      "action":"open_url",
+      "value":"https://app.element.io"
+    }
+  },
+  {
+    "text":"with the username ",
+    "color":"aqua"
+  },
+  {
+    "text":"@johndoe:matrix.org",
+    "underlined":true,
+    "color":"aqua",
+    "clickEvent": {
+      "action":"open_url",
+      "value":"https://matrix.to/#/@johndoe:matrix.org"
+    },
+    "hoverEvent": {
+      "action":"show_text",
+      "contents": ["Click to send a message"]
+    }
+  },
+  {
+    "text":" (this is the default help page, it's not actually a real person, if you're the admin you should change this)",
+    "bold":true,
+    "color":"red"
+  }
+]
